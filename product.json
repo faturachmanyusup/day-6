@@ -1,0 +1,11 @@
+[
+  {
+  "key": "ini vakue dai key"
+  },
+  {
+    "key": "ini vakue dai key",
+    "isTrue": false,
+    "price": 100000,
+    "stock": null
+  }
+]
